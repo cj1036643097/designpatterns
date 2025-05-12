@@ -10,7 +10,6 @@ public class DeliverController {
 
     @Test
     public void test() {
-
         //1. 发放打折券优惠
         AwardInfo info1 = new AwardInfo();
         info1.setUid("1001");
